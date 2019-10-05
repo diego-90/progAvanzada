@@ -8,4 +8,4 @@
 
 ###### tipado dinamico
 
-####### la caracteristica de tipado dinamico se refiere a que no es necesario declarar el tipo de dato que va a conteber una determinada variable, sino que su tipo se determinara el tiempo de ejecucion segun el tipo de valor que se asigne y al tipo de esta variable puede cambiar si se le asigna algun valor de otro tipo.
+# la caracteristica de tipado dinamico se refiere a que no es necesario declarar el tipo de dato que va a conteber una determinada variable, sino que su tipo se determinara el tiempo de ejecucion segun el tipo de valor que se asigne y al tipo de esta variable puede cambiar si se le asigna algun valor de otro tipo.
