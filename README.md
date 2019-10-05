@@ -9,3 +9,9 @@
 ###### tipado dinamico
 
 ####### la caracteristica de tipado dinamico se refiere a que no es necesario declarar el tipo de dato que va a conteber una determinada variable, sino que su tipo se determinara el tiempo de ejecucion segun el tipo de valor que se asigne y al tipo de esta variable puede cambiar si se le asigna algun valor de otro tipo.
+
+fuertemente tipdo
+
+No se permite tratar una variable como si fuera  un tipo distinto al que tiene, es necesario convertir de forma explicita dicha variable. Por ejemplo, si tenemos una variable que contiene un texto (variable de tipo cadena o string) no podemos tratar con un numero (sumar la cadena "9" + 8 int ("9") + 9.
+
+
