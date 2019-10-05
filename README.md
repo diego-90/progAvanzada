@@ -8,10 +8,16 @@
 
 ###### tipado dinamico
 
-####### la caracteristica de tipado dinamico se refiere a que no es necesario declarar el tipo de dato que va a conteber una determinada variable, sino que su tipo se determinara el tiempo de ejecucion segun el tipo de valor que se asigne y al tipo de esta variable puede cambiar si se le asigna algun valor de otro tipo.
+la caracteristica de tipado dinamico se refiere a que no es necesario declarar el tipo de dato que va a conteber una determinada variable, sino que su tipo se determinara el tiempo de ejecucion segun el tipo de valor que se asigne y al tipo de esta variable puede cambiar si se le asigna algun valor de otro tipo.
 
 fuertemente tipdo
 
 No se permite tratar una variable como si fuera  un tipo distinto al que tiene, es necesario convertir de forma explicita dicha variable. Por ejemplo, si tenemos una variable que contiene un texto (variable de tipo cadena o string) no podemos tratar con un numero (sumar la cadena "9" + 8 int ("9") + 9.
+
+Multiplataforma
+
+El interprete de python esta disponible en multitud de plataformas (Unix, Solaris, Linux, Dos, Windows,OS/2, Mac Os, Android, IOS) por lo que sino utilizamos librerias especificas de cada plataforma nuestro programa podra correr sin grandes cambios.
+
+
 
 
