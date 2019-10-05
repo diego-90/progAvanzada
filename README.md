@@ -18,6 +18,12 @@ Multiplataforma
 
 El interprete de python esta disponible en multitud de plataformas (Unix, Solaris, Linux, Dos, Windows,OS/2, Mac Os, Android, IOS) por lo que sino utilizamos librerias especificas de cada plataforma nuestro programa podra correr sin grandes cambios.
 
+Orientado a objectos
+
+la orientacion a objectos es un paradigma de programacion en los que los conceptos del mundo real relevantes para nuestro problema se trasladan a clases y a objectos en nuestro programa. La ejecucion del programa consiste en una serie de interacciones entre los objectos.
+
+
+
 
 
 
