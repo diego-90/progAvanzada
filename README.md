@@ -22,6 +22,9 @@ Orientado a objectos
 
 la orientacion a objectos es un paradigma de programacion en los que los conceptos del mundo real relevantes para nuestro problema se trasladan a clases y a objectos en nuestro programa. La ejecucion del programa consiste en una serie de interacciones entre los objectos.
 
+¿Por que python?
+
+El software es el nucleo de las herramientas que usamos hoy en dia. Casi todos usamos redes sociales para comunicarnos, muchas personas estan conectadas a internet todo el dia, y la mayoria de los trabajos siempre interctua con una computadora para tener el trabajo ya hecho. Como resultado la demanda de las personas que sepam programar han aumentado, Python es un lenguaje que con su sintaxis simple, clara y sencilla puede automatizar simples tareas como mover y renombrar miles de archivos y clasificar folders, llenar de forma automatica formularios en internet, descargar archivos extraer informacion de paginas de internet de forma masiva, hacer que su computadora le envie a su telefono informacion de quien la esta usando, checar su email y contestando de forma automatica
 
 
 
