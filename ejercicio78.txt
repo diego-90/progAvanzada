@@ -1,0 +1,8 @@
+sea reusltado una variable string vacia sea q un numero entero a convertir 
+repetir:
+sea r igual al residuo cuando q es 
+dividido entre2
+convertir r a string y agregarlo al comienzo 
+del resultado
+dividir q entre 2, eliminar caulquier residuo
+y guardar el resultado de nuevo en q hasta que q sea cero
