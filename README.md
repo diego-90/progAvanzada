@@ -346,7 +346,7 @@ El zodiaco chino asigna animales a años en un ciclo de 12 años. Un ciclo de 12
 |2010 |Tigre| 
 |2011| Liebre|
 
-Escriba un programa que lea un año del usuario y muestre el animal asociado con ese año. Su programa debería funcionar correctamente durante cualquier año mayor o igual a cero, no solo los que figuran en la tabla.
+Escriba un programa que lea un año del usuario y muestre el animal asociado con ese año. Su programa debería funcionar correctamente durante cualquier año mayor o igual a cero, no solo los que figuran en la tabla. https://github.com/diego-90/progAvanzada/blob/master/ejercicio48.py
 
 
 ## Ejercicio 49
