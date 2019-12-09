@@ -89,7 +89,7 @@ from math import log https://github.com/diego-90/progAvanzada/blob/master/ejerci
 
 ## Ejercicio 11
 
-En este programa se realizará una sencilla conversión de unidades, En estados unidos la eficiencia de combustible se mide en millas por galón (MPG), mientras que en México su unidad es litro por 100 Km (l/100km), investigando se obtiene que 1 MPG es equivalente a 235.21 l/100km y 1 l/100km es equivalente a 1 MPG, por lo tanto, la fórmula para convertir MPG a l/100km es: 235.21/MPG,  entonces la función del programa consiste en que el usuario introducirá la eficiencia en MPG, y el programa realizará la conversión a l/100km.
+En este programa se realizará una sencilla conversión de unidades, En estados unidos la eficiencia de combustible se mide en millas por galón (MPG), mientras que en México su unidad es litro por 100 Km (l/100km), investigando se obtiene que 1 MPG es equivalente a 235.21 l/100km y 1 l/100km es equivalente a 1 MPG, por lo tanto, la fórmula para convertir MPG a l/100km es: 235.21/MPG,  entonces la función del programa consiste en que el usuario introducirá la eficiencia en MPG, y el programa realizará la conversión a l/100km.https://github.com/diego-90/progAvanzada/blob/master/ejercicio11.py
 
 
 ## Ejercicio 12
