@@ -120,7 +120,7 @@ Sugerencia: El área de un círculo se calcula usando el área de fórmula = π*
 La cantidad de energía requerida para aumentar la temperatura de un gramo de un material en un grado Celsius es la capacidad de calor específica del material, C. La cantidad total de energía requerida para elevar m gramos de un material en ΔT grados Celsius se puede calcular usando la fórmula:
 q = mCΔT.
 Escriba un programa que lea la masa de un poco de agua y el cambio de temperatura del usuario. Su programa debe mostrar la cantidad total de energía que debe agregarse o eliminarse para lograr el cambio de temperatura deseado.
-Sugerencia: La capacidad calorífica específica del agua es 4.186 J g◦C. Debido a que el agua tiene una densidad de 1.0 gramo por mililitro, puede usar gramos y mililitros de manera intercambiable en este ejercicio.
+Sugerencia: La capacidad calorífica específica del agua es 4.186 J g◦C. Debido a que el agua tiene una densidad de 1.0 gramo por mililitro, puede usar gramos y mililitros de manera intercambiable en este ejercicio. https://github.com/diego-90/progAvanzada/blob/master/ejercicio17.py
 
 
 ## Ejercicio 18 
