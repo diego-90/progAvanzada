@@ -83,7 +83,7 @@ Para este ejercicio se debe crear un programa que lea dos números enteros, a y 
 • El resultado de a, a la potencia de b.
 Para poder usar el Log es necesario llamar una librería llamada math y de ahí importar Log, esto permite al programa procesar ese cálculo.
 Esta librería se pone el principio de comenzar a realizar la programación de esta manera: 
-from math import log 
+from math import log https://github.com/diego-90/progAvanzada/blob/master/ejercicio10.py
 
 
 
