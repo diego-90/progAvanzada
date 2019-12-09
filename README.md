@@ -182,7 +182,7 @@ En 2001, Canadá, el Reino Unido y los Estados Unidos adoptaron la siguiente fó
 Se puede usar una fórmula similar con diferentes valores constantes con temperaturas en grados Fahrenheit y velocidades del viento en millas por hora.
 WCI = 13.12 + 0.6215Ta − 11.37V0.16 + 0.3965TaV0.16
 Escriba un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, su programa debería mostrar el índice de enfriamiento del viento redondeado al entero más cercano.
-El índice de enfriamiento del viento solo se considera válido para temperaturas inferiores o iguales a 10 grados Celsius y velocidades del viento superiores a 4,8 kilómetros por hora
+El índice de enfriamiento del viento solo se considera válido para temperaturas inferiores o iguales a 10 grados Celsius y velocidades del viento superiores a 4,8 kilómetros por hora https://github.com/diego-90/progAvanzada/blob/master/ejercicio28.py
 
 
 ## Ejercicio 29
