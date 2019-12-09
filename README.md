@@ -61,7 +61,7 @@ Para este programa el usuario deberá de indicar a el programa el nombre de la c
 
 ## Ejercicio 7
 Para este programa se realizará la función de ingresar un número positivo cualquiera, y el programa desplegará la cantidad de números enteros desde 1, indicando como resultado todos los números posibles enteros con esa cantidad.
-Para calcular los numero se hace uso de la formula (n (n + 1)) / 2
+Para calcular los numero se hace uso de la formula (n (n + 1)) / 2 https://github.com/diego-90/progAvanzada/blob/master/ejercicio7.py
 
 
 ## Ejercicio 8
