@@ -365,7 +365,7 @@ La siguiente tabla contiene rangos de magnitud de terremotos en la escala de Ric
 |10.0 o más |Meteórico|
 
 Escriba un programa que lea una magnitud del usuario y muestre el descriptor apropiado como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5, entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera un terremoto moderado.
-
+https://github.com/diego-90/progAvanzada/blob/master/ejercicio49.py
 
 ## Ejercicio 50
 Una función cuadrática univariada tiene la forma f (x) = ax2 + bx + c, donde a, b y c son constantes, y a no es cero. Las raíces de una función cuadrática se pueden encontrar al encontrar los valores de x que satisfacen la ecuación cuadrática ax2 + bx + c = 0. Una función cuadrática puede tener 0, 1 o 2 raíces reales. Estas raíces se pueden calcular utilizando la fórmula cuadrática, que se muestra a continuación:
