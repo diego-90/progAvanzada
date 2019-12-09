@@ -35,7 +35,7 @@ Conociendo los pasos anteriores, se procedió a realizar el ejercicio 1 que cons
 
 ## Ejercicio 2
 
-En este ejercicio se aprendió un nuevo comando, con el cual el programa le pregunte al usuario su nombre, para realizar esto se hizo uso del comando “input” al poner este comando el programa permite introducir palabras por ejemplo un nombre propio que es el caso del ejercicio 2, donde se le indica al programa que pregunte por el nombre del usuario, y el usuario al poner el nombre, la maquina le contesta con un hola bienvenido seguido del nombre del usuario.
+En este ejercicio se aprendió un nuevo comando, con el cual el programa le pregunte al usuario su nombre, para realizar esto se hizo uso del comando “input” al poner este comando el programa permite introducir palabras por ejemplo un nombre propio que es el caso del ejercicio 2, donde se le indica al programa que pregunte por el nombre del usuario, y el usuario al poner el nombre, la maquina le contesta con un hola bienvenido seguido del nombre del usuario.https://github.com/diego-90/progAvanzada/blob/master/ejercicio2.py
 
 
 ## Ejercicio 3
