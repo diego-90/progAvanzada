@@ -164,7 +164,7 @@ Crear un programa que le pida al usurario la duracion en dias. horas. minutos y 
 
 
 ## Ejercicio 25
-En este ejercicio usted revertira el proceso descrito en el ejercicio previo.Desarrolle un programa que comnienze por leer una cantidad en segundos introducidos por el usuario. Su programa debe desplegar la cantidad equivlente en forma de D:HH:NN:SS, Donde D son los dias, HH las horas, MM los minutos y SS los segundos.las horas, minutos y segundos deben estar en formato de 2 digitos, con un 0 al inicio, si es necesario.
+En este ejercicio usted revertira el proceso descrito en el ejercicio previo.Desarrolle un programa que comnienze por leer una cantidad en segundos introducidos por el usuario. Su programa debe desplegar la cantidad equivlente en forma de D:HH:NN:SS, Donde D son los dias, HH las horas, MM los minutos y SS los segundos.las horas, minutos y segundos deben estar en formato de 2 digitos, con un 0 al inicio, si es necesario.https://github.com/diego-90/progAvanzada/blob/master/ejercicio25.py
 
 
 ## Ejercicio 26
