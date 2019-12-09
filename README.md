@@ -52,7 +52,7 @@ Para la realización de este ejercicio se hizo uso de lo aprendido en el ejercic
 
 ## Ejercicio 5
 
-Para la realización de este ejercicio se hizo uso simplemente de dos multiplicaciones y una suma, en este programa se realiza el intercambio de botellas plásticas por dinero (botellas de menos de un litro equivalen a $0.10 y botellas de más de un litro equivale a $0.25), se tiene que ingresar al programa un numero de botella de menos de 1 litro y el número de botellas de más de 1 litro, al ingresar la cantidad de botellas, el programa calcula cuantas botellas se ingresan y suma los resultados dando una sola cantidad generada.
+Para la realización de este ejercicio se hizo uso simplemente de dos multiplicaciones y una suma, en este programa se realiza el intercambio de botellas plásticas por dinero (botellas de menos de un litro equivalen a $0.10 y botellas de más de un litro equivale a $0.25), se tiene que ingresar al programa un numero de botella de menos de 1 litro y el número de botellas de más de 1 litro, al ingresar la cantidad de botellas, el programa calcula cuantas botellas se ingresan y suma los resultados dando una sola cantidad generada.https://github.com/diego-90/progAvanzada/blob/master/ejercicio5.py
 
 
 ## Ejercicio 6
