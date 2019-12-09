@@ -56,7 +56,7 @@ Para la realización de este ejercicio se hizo uso simplemente de dos multiplica
 
 
 ## Ejercicio 6
-Para este programa el usuario deberá de indicar a el programa el nombre de la comida que ordeno seguido del precio de esta, en un total de 5 comidas a pedir, El programa deberá realizar la función de calcular el subtotal, el IVA, la propina y el total a pagar, estas cantidades deberán aparecer en la pantalla como en un ticket real, poniendo en columnas separadas las cantidades que se están cobrando y finalizando con el total a pagar.
+Para este programa el usuario deberá de indicar a el programa el nombre de la comida que ordeno seguido del precio de esta, en un total de 5 comidas a pedir, El programa deberá realizar la función de calcular el subtotal, el IVA, la propina y el total a pagar, estas cantidades deberán aparecer en la pantalla como en un ticket real, poniendo en columnas separadas las cantidades que se están cobrando y finalizando con el total a pagar.https://github.com/diego-90/progAvanzada/blob/master/ejercicio06.py
 
 
 ## Ejercicio 7
