@@ -420,7 +420,7 @@ La longitud de onda de la luz visible varía de 380 a 750 nanómetros (nm). Si b
 |Amarillo |570 o menor que 590 |
 |Naranja |590 o menor que 620| 
 |Rojo |620 to 750|
-Escriba un programa que lea una longitud de onda del usuario e informe su color. Muestre un mensaje de error apropiado si la longitud de onda ingresada por el usuario está fuera del espectro visible.
+Escriba un programa que lea una longitud de onda del usuario e informe su color. Muestre un mensaje de error apropiado si la longitud de onda ingresada por el usuario está fuera del espectro visible. https://github.com/diego-90/progAvanzada/blob/master/ejercicio54.py
 
 ## Ejercicio 55
 La radiación electromagnética se puede clasificar en una de las 7 categorías según su frecuencia, como se muestra en la tabla a continuación:
