@@ -373,7 +373,7 @@ root = (−b ± √ b2 − 4ac )/(2a)
 La parte de la expresión debajo del signo de raíz cuadrada se llama discriminante. Si el discriminante es negativo, entonces la ecuación cuadrática no tiene raíces reales.
 Si el discriminante es 0, entonces la ecuación tiene una raíz real. De lo contrario, la ecuación tiene dos raíces reales, y la expresión debe evaluarse dos veces, una vez usando un signo más, y una vez usando un signo menos, al calcular el numerador.
 Escriba un programa que calcule las raíces reales de una función cuadrática. Su programa debe comenzar solicitando al usuario los valores de a, b y c, luego, debe mostrar un mensaje que indique el número de raíces reales, junto con los valores de las raíces reales (si las hay).
-
+https://github.com/diego-90/progAvanzada/blob/master/ejercicio50.py
 
 ## Ejercicio 51
 En una universidad en particular, las calificaciones con letras se asignan a los puntos de calificación de la siguiente manera:
