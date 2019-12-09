@@ -31,7 +31,7 @@ acontinuacion se presenta una serie de ejercicios el cual, el alumno programara 
 ## Ejercicio 1
 
 En el ejercicio 1 se aprendió a utilizar los comandos que se ingresan en el editor de texto en el cual se le dará la instrucción de “imprimir” las frases o palabras que le hayamos escrito, ya que se hizo lo anterior, se guardara el archivo con la extensión “.py” que es la extensión que se usara con la aplicación de anaconda. También en este ejercicio 1 se aprendió a utilizar los comandos, pero para PYTHON PROMPT, en donde se le va indicar en que carpeta se tiene guardado ese archivo creado con la extensión “.py” 
-Conociendo los pasos anteriores, se procedió a realizar el ejercicio 1 que consistió en realizar una carta indicando el destinatario y el remitente.
+Conociendo los pasos anteriores, se procedió a realizar el ejercicio 1 que consistió en realizar una carta indicando el destinatario y el remitente.https://github.com/diego-90/progAvanzada/blob/master/ejercicio1.py
 
 ## Ejercicio 2
 
