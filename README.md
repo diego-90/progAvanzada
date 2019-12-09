@@ -393,7 +393,7 @@ En una universidad en particular, las calificaciones con letras se asignan a los
 |D |1.0 |
 |F |0|
 
-Escriba un programa que comience leyendo una calificación de letra del usuario. Luego, su programa debe calcular y mostrar el número equivalente de puntos de calificación. Asegúrese de que su programa genere un mensaje de error apropiado si el usuario ingresa una calificación de letra no válida.
+Escriba un programa que comience leyendo una calificación de letra del usuario. Luego, su programa debe calcular y mostrar el número equivalente de puntos de calificación. Asegúrese de que su programa genere un mensaje de error apropiado si el usuario ingresa una calificación de letra no válida.https://github.com/diego-90/progAvanzada/blob/master/ejercicio51.py
 
 
 ## Ejercicio 52
