@@ -325,7 +325,7 @@ Los horóscopos comúnmente reportados en los periódicos usan la posición del 
 |Escorpion |Octubre 23 to Noviembre 21| 
 |Sagitario |Noviembre 22 to Diciembre 21|
 
-Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Luego, nuestro programa debe informar el signo zodiacal del usuario como parte de un mensaje de salida apropiado.
+Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. Luego, nuestro programa debe informar el signo zodiacal del usuario como parte de un mensaje de salida apropiado. https://github.com/diego-90/progAvanzada/blob/master/ejercicio47.py
 
 
 ## Ejercicio 48
