@@ -94,7 +94,7 @@ En este programa se realizará una sencilla conversión de unidades, En estados 
 
 ## Ejercicio 12
 Para la realización de este programa se hizo uso de las librerías de Python denominadas math, ya que con estas hace posible realizar cálculos un poco complejos en el en el programa a realizar facilitando su uso, el programa a realizar tiene como objetivo que el usuario ingrese 2 distancias en la tierra (t1,g1) y (t2,g2), haciendo uso de la latitud y la longitud, el programa tiene que convertir los valores introducidos por el usurario que están grados a radiales ya que el programa Python solo trabaja en radianes, esto se debe de realizar antes de hacer uso de la siguiente formula que permite obtener los datos de las distancias en kilómetros.
-distancia = 6271.01*arccos(sen(t1)*sen(t2)+cos(t1)*cos(t2)*cos(g1-g2))
+distancia = 6271.01*arccos(sen(t1)*sen(t2)+cos(t1)*cos(t2)*cos(g1-g2)) https://github.com/diego-90/progAvanzada/blob/master/ejercicio12.py
 
 
 ## Ejercicio 13
