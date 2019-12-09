@@ -113,7 +113,7 @@ https://github.com/diego-90/progAvanzada/blob/master/ejercicio15.py
 
 ## Ejercicio 16
 Escriba un programa que comience leyendo un radio, r, del usuario. El programa continuará calculando y mostrando el área de un círculo con radio r y el volumen de una esfera con radio r. Use la constante pi en el módulo matemático en sus cálculos.
-Sugerencia: El área de un círculo se calcula usando el área de fórmula = π*r^2. El volumen de una esfera se calcula usando la fórmula volumen = 4/3 * π* r^3.
+Sugerencia: El área de un círculo se calcula usando el área de fórmula = π*r^2. El volumen de una esfera se calcula usando la fórmula volumen = 4/3 * π* r^3. https://github.com/diego-90/progAvanzada/blob/master/ejercicio16.py
 
 
 ## Ejercicio 17
