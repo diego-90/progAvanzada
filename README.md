@@ -435,7 +435,7 @@ La radiación electromagnética se puede clasificar en una de las 7 categorías 
 |Rayos X |3 × 10^17 a menos de 3 × 10^19|
 |Rayos gamma |3 × 10^19 o más|
 
-Escriba un programa que lea la frecuencia de la radiación del usuario y muestre el nombre apropiado.
+Escriba un programa que lea la frecuencia de la radiación del usuario y muestre el nombre apropiado. https://github.com/diego-90/progAvanzada/blob/master/ejercicio55.py
 
 
 ## Ejercicio 56
