@@ -168,7 +168,7 @@ En este ejercicio usted revertira el proceso descrito en el ejercicio previo.Des
 
 
 ## Ejercicio 26
-Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida una función llamada “asctime” en el módulo de “tiempo”. Lee la hora actual del reloj interno de la computadora y la devuelve en un formato legible para humanos. Escriba un programa que muestre la hora y fecha actuales. Su programa no requerirá ninguna entrada del usuario.
+Python incluye una biblioteca de funciones para trabajar con el tiempo, incluida una función llamada “asctime” en el módulo de “tiempo”. Lee la hora actual del reloj interno de la computadora y la devuelve en un formato legible para humanos. Escriba un programa que muestre la hora y fecha actuales. Su programa no requerirá ninguna entrada del usuario.https://github.com/diego-90/progAvanzada/blob/master/ejercicio26.py
 
 
 ## Ejercicio 27
