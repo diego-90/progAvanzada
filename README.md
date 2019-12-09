@@ -46,7 +46,7 @@ Para la realización de este ejercicio utilizamos un nuevo comando, el cual le p
 ## Ejercicio 4
 
 Para la realización de este ejercicio se hizo uso de lo aprendido en el ejercicio 3, solo que en este caso el usuario indicara al programa el largo y ancho de un campo de cultivo en metros, lo que el programa debe realizar es una conversión de unidades, pasando de metros a acres, para la realización de la conversión se necita saber cuánto equivale 1 metro a acress, el cual es 1 m = 0.000247105 acres. Por ultimo simplemente se le indica al programa que realiza la siguiente ecuación:
-(largo * ancho) * 0. 0.000247105
+(largo * ancho) * 0. 0.000247105 https://github.com/diego-90/progAvanzada/blob/master/ejercicio4.py
 
 
 
