@@ -40,7 +40,7 @@ En este ejercicio se aprendió un nuevo comando, con el cual el programa le preg
 
 ## Ejercicio 3
 
-Para la realización de este ejercicio utilizamos un nuevo comando, el cual le pregunta al usuario un numero entero con punto decimal, para la realización de esta indicación se hace uso del comando “float” con el cual se podrá introducir un numero con punto decimal, también se hizo uso de una pequeña formula de multiplicación, ya que el objetivo de este programa es indicar el largo y ancho de una habitación, para realizar la multiplicación solo se hace uso de un “ * ” el cual le indica al programa que se trata de una multiplicación. Ya indicado lo anterior el programa responde al usuario el área de la habitación en metros cuadrados.
+Para la realización de este ejercicio utilizamos un nuevo comando, el cual le pregunta al usuario un numero entero con punto decimal, para la realización de esta indicación se hace uso del comando “float” con el cual se podrá introducir un numero con punto decimal, también se hizo uso de una pequeña formula de multiplicación, ya que el objetivo de este programa es indicar el largo y ancho de una habitación, para realizar la multiplicación solo se hace uso de un “ * ” el cual le indica al programa que se trata de una multiplicación. Ya indicado lo anterior el programa responde al usuario el área de la habitación en metros cuadrados.https://github.com/diego-90/progAvanzada/blob/master/ejercicio3.py
 
 
 ## Ejercicio 4
