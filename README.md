@@ -205,7 +205,7 @@ Una panadería vende hogazas de pan por $ 3.49 cada una. El pan de un día tiene
 
 ## Ejercicio 34
 Escriba un programa que lea un numero entero por el usuario.
-Su programa debe despleglar un mensaje indicando si su numero entero es par o imparhttps://github.com/diego-90/progAvanzada/blob/master/ejercicio34.py
+Su programa debe despleglar un mensaje indicando si su numero entero es par o impar https://github.com/diego-90/progAvanzada/blob/master/ejercicio34.py
 
 
 ## Ejercicio 35
