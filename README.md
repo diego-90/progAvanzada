@@ -104,7 +104,7 @@ Una moneda de un dólar se introdujo en Canadá en 1987. Se conoce como a loonie
 
 
 ## Ejercicio 14
-Muchas personas piensan en su altura en pies y pulgadas, incluso en algunos países que utilizan principalmente el sistema métrico. Escriba un programa que lea un número de pies del usuario, seguido de un número de pulgadas. Una vez que se leen estos valores, su programa.
+Muchas personas piensan en su altura en pies y pulgadas, incluso en algunos países que utilizan principalmente el sistema métrico. Escriba un programa que lea un número de pies del usuario, seguido de un número de pulgadas. Una vez que se leen estos valores, su programa. https://github.com/diego-90/progAvanzada/blob/master/ejercicio14.py
 
 
 ## Ejercicio 15
